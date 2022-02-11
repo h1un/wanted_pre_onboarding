@@ -14,12 +14,13 @@ const Toggle = () => {
     return (
         <div className="wrapper ">
             <h2>Toggle</h2>
-
-            <label className="switch">
-                <input type="checkbox" onClick={() => onToggle()}/>
-                <span className="slider"></span>
-            </label>
-            <p>Toggle Switch {toggleChecked}</p>
+            <div className="content">
+                <label className="switch">
+                    <input type="checkbox" onClick={() => onToggle()}/>
+                    <span className="slider"></span>
+                </label>
+                <p>Toggle Switch {toggleChecked}</p>
+            </div>
         </div>
     )
 };
