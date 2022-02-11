@@ -1,0 +1,50 @@
+.modalButton {
+    position: relative;
+    cursor: pointer;
+    width: 130px;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    background-color: #4800ce;
+    color: #fff;
+}
+
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modalBox {
+    position: relative;
+    width: 400px;
+    height: 140px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.modalBox .closeButton {
+    position: absolute;
+    cursor: pointer;
+    top: 5px;
+    left: 50%;
+    color: #000;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.modalBox .message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    font-size: 20px;
+    color: #4800ce;
+}
