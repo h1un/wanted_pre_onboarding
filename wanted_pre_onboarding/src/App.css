@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.wrapper  {
+  position: relative;
+  text-align: center;
+  margin: 10px 10px;
+  border: 2px solid #c3c3c3;
+  border-radius: 10px;
+  padding: 0 20px;
+  font-weight: 500;
+}
+.wrapper  h2{
+  text-align: left;
+
+}
