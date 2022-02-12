@@ -14,7 +14,7 @@ function App() {
             <Toggle/>
             <Modal/>
             <Tab/>
-            {/*<Tag/>*/}
+            <Tag/>
             {/*<AutoComplete/>*/}
             <ClickToEdit/>
         </div>

@@ -3,9 +3,9 @@
 - [x] Toggle.js
 - [x] Modal.js
 - [x] Tab.js
-- [ ] Tag.js
-- [x] AutoComplete.js
-- [ ] ClickToEdit.js
+- [x] Tag.js
+- [ ] AutoComplete.js
+- [x] ClickToEdit.js
 
 ## 1. Toggle.js
 
