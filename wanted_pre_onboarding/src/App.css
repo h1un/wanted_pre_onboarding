@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 0 20% 0 20%;
 }
 
 .App-logo {
@@ -39,7 +40,6 @@
 
 
 .wrapper  {
-  position: relative;
   text-align: center;
   margin: 10px 10px;
   border: 2px solid #c3c3c3;

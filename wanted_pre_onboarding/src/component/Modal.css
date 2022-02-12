@@ -22,7 +22,8 @@
 }
 
 .modalBox {
-    position: relative;
+    position: fixed;
+    z-index: 1000;
     width: 400px;
     height: 140px;
     border-radius: 20px;
@@ -47,4 +48,6 @@
     height: 150px;
     font-size: 20px;
     color: #4800ce;
+
+    z-index: 1000;
 }
