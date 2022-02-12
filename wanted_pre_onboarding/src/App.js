@@ -10,12 +10,11 @@ import ClickToEdit from "./component/ClickToEdit";
 function App() {
     return (
         <div className="App">
-            <img src={logo} className="App-logo" alt="logo"/>
             <Toggle/>
             <Modal/>
             <Tab/>
             <Tag/>
-            {/*<AutoComplete/>*/}
+            <AutoComplete/>
             <ClickToEdit/>
         </div>
     );

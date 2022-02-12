@@ -1,0 +1,45 @@
+.autoComplete {
+    display: flex;
+    position: relative;
+    margin: 100px 0;
+}
+.autoComplete input {
+    width: 100%;
+    display: block;
+    height: 50px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0 10px;
+    outline: none;
+}
+.autoComplete .clearButton {
+    cursor: pointer;
+    position: absolute;
+    top: 9px;
+    right: 10px;
+    font-size: 20px;
+}
+
+.dropdown {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 100%;
+    margin-top: 0;
+    padding: 0;
+    border: 1px solid lightgray;
+    background: #fff;
+    overflow: hidden;
+    list-style-type: none;
+    border-radius: 0 0 20px 20px;
+}
+
+.dropdown li {
+    text-align: left;
+    padding: 3px 0 10px 10px;
+}
+.dropdown li:hover {
+    background-color: #f1f1f1;
+}
