@@ -1,0 +1,28 @@
+.content.clickToEdit{
+    margin: 0  0 100px 0;
+}
+.a{
+    align-items: baseline;
+}
+.content.clickToEdit input{
+    width: 100px;
+    height: 30px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    font-weight: 500;
+    margin : 10px 10px;
+    align: center;
+    text-align: center;
+    outline: none;
+}
+
+.content.clickToEdit label{
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    margin : 10px 10px;
+    text-align: center;
+    outline: none;
+}
+
