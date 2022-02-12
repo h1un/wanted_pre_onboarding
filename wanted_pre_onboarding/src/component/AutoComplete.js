@@ -34,7 +34,7 @@ const AutoComplete = () => {
     }
 
     return (
-        <div className="wrapper">
+        <div className="wrapper2">
             <h2>AutoComplete</h2>
             <div className="autoComplete">
                 <input
