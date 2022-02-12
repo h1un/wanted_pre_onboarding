@@ -1,0 +1,21 @@
+.tabBar {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: lightgray;
+}
+.tabBar .tab {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 60px;
+    padding-left: 10px;
+    flex-grow: 1;
+    color: gray;
+    transition: 0.4s;
+}
+.tabBar .tab.active {
+    background-color: #4800ce;
+    color: #fff;
+}
