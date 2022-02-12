@@ -2,9 +2,9 @@
 
 - [x] Toggle.js
 - [x] Modal.js
-- [ ] Tab.js
+- [x] Tab.js
 - [ ] Tag.js
-- [ ] AutoComplete.js
+- [x] AutoComplete.js
 - [ ] ClickToEdit.js
 
 ## 1. Toggle.js
@@ -23,6 +23,14 @@ Toggle 버튼을 클릭하면 css 처리
 
 
 ## 2. Modal.js
+
+#### 구현한 방법과 이유에 대한 간략한 내용
+
+#### 구현하면서 어려웠던 점과 해결 방법 (Error Handling Log)
+
+#### 자세한 실행 방법
+
+## 2. Tab.js
 
 #### 구현한 방법과 이유에 대한 간략한 내용
 
