@@ -71,7 +71,7 @@ npm start
 
 ## 5. AutoComplete
 
-![Auto](https://user-images.githubusercontent.com/43220356/153760811-431a3c0f-d944-46a1-a4a7-32db8ec97021.gif)
+![Auto](https://user-images.githubusercontent.com/43220356/153766288-3d6a14bb-3940-4514-a059-08a0c799c0ac.gif)
 
 
 #### [ 구현방법 ]
