@@ -12,6 +12,12 @@
     /*padding: 0 20px;*/
     font-weight: 500;
 }
+
+.wrapper2  h2{
+    text-align: left;
+    padding: 0 20px;
+
+}
 .autoComplete input {
     width: 100%;
     display: block;
